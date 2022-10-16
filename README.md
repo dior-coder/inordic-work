@@ -1,2 +1,4 @@
-# inordic-work
-HomeWork Inordic School
+#inordic-work
+#inordic-school
+#Разработчик
+Ульмасбаев Мухамаддиёр
